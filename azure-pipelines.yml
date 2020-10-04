@@ -38,7 +38,3 @@ stages:
     - bash: echo ProdDeploy FirstJob
 
 
-steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
